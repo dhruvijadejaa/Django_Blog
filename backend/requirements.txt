@@ -1,0 +1,24 @@
+#api development 
+asgiref==3.11.1
+Django==6.0.6
+djangorestframework==3.17.1
+sqlparse==0.5.5
+djangorestframework-simplejwt==5.2.2
+drf-yasg==1.21.7
+django-cors-headers==3.14.0
+
+#production/security
+django-dotenv==1.4.2
+django-environ==0.9.0
+django-anymail==9.1
+
+#utilities 
+humanize==4.6.0
+requests==2.31.0
+shortuuid==1.0.11
+tzdata==2023.3
+
+#content
+django-ckeditor==6.7.0
+django-ckeditor-5==0.2.10
+django-import-export==3.2.0
