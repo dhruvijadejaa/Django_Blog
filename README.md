@@ -1,1 +1,1 @@
-![image](./frontend/src/assets/EmailVerification.png)
+![image](./frontend/src/assets/Blog.png)
